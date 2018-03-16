@@ -1569,7 +1569,7 @@
     nav.navbar.sidebar-nav.sidemenu-open {left:0;}
     nav.navbar.sidebar-nav .navbar-toggle .icon-bar {background: #232323;}
     nav.navbar.bootsnav.sidebar-nav .navbar-collapse.collapse, .sidebar-part2 nav.navbar.bootsnav .navbar-collapse.collapse {display:block !important; max-height: 100%; position: relative; top: 0;}
-    nav.navbar.bootsnav.sidebar-nav .mobile-scroll {display: block; max-height: 80%; overflow-y: auto; position: absolute}
+    nav.navbar.bootsnav.sidebar-nav .mobile-scroll {display: block; max-height: auto; overflow-y: auto; position: absolute}
     .sidebar-nav .logo-holder, .sidebar-nav .footer-holder {padding: 0; text-align: left; display: inline-block;}
     .sidebar-nav .logo-holder {min-height: 0; padding: 15px 0}
     .sidebar-nav.sidemenu-open .footer-holder {width: 100%; padding: 0; margin-right: 0;}
